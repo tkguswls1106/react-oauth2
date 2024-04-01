@@ -2,4 +2,4 @@
 
 ### < Backend Repo / Spring >
 - <strong>Github link</strong>&nbsp;:&nbsp;
-  <a href="https://github.com/tkguswls1106/springsecurity-jwt-oauth2">"Click!"</a>
+  <a href="https://github.com/tkguswls1106/springsecurity-jwt-oauth2">Click!</a>
